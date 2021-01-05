@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+.sikayet-pop-up {
+    position: fixed;
+    bottom: 40px;
+    left: 20px;
+    width: 300px;
+    height: 500px;
+    z-index: 999999;
+}
+
+.btn-popup {
+    width: 80px;
+    height: 50px;
+    background-color: #ff8800;
+    outline: 0;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 12px;
+    border: 0;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 20px;
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border-bottom-right-radius 300ms, border-top-left-radius 300ms,
+        box-shadow 300ms;
+}
+
+.btn-popup:hover {
+    border-bottom-right-radius: 20px;
+    box-shadow: -6px 11px 21px 0px rgba(157, 106, 50, 0.4);
+    border-top-left-radius: 20px;
+}
+
+.btn-popup img {
+    width: 30px;
+    height: 30px;
+    transition: transform 300ms, width 300ms, height 300ms;
+}
+
+.btn-popup:hover img {
+    transform: rotate(45deg);
+    width: 35px;
+    height: 35px;
+}
+
+.popup-content {
+    margin-top: 50px;
+    background-color: #00000096;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.un-visible {
+    visibility: hidden;
+}
+
+.btn-gönder {
+    background-color: #ff8800;
+}
+
+.label {
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-size: 12pt;
+}
+
+.input-popup {
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.671);
+}
+
+.input-popup:focus {
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.671);
+}
+
+.warn-messages {
+    color: red;
+    font-weight: bold;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+}
