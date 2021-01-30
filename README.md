@@ -10,10 +10,3 @@ https://mta-web.vercel.app/download.html
 
 
 Images from the Project
-file:///C:/Users/Yusuf/Desktop/mtaweb1.png
-
-file:///C:/Users/Yusuf/Desktop/mtaweb2.png
-
-file:///C:/Users/Yusuf/Desktop/mtaweb3.png
-
-file:///C:/Users/Yusuf/Desktop/mtaweb4.png
