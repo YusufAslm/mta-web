@@ -6,5 +6,7 @@ A simple frontend design made by myself, html, css languages.
 - Frontend Developer: Yusuf aslım
 - Project Version: v1.0
 
+https://mta-web.vercel.app/download.html
+
 
 Images from the Project
