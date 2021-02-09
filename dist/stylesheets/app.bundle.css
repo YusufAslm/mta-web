@@ -153,29 +153,29 @@ body::before {
 }
 
 .neon-yellow {
-    background: rgb(238, 159, 14);
+    background: rgb(238, 204, 14);
     background: linear-gradient(90deg,
-            rgb(240, 158, 7) 0%,
-            rgb(230, 137, 17) 72%,
-            rgb(186, 120, 21) 100%);
+            rgb(240, 224, 7) 0%,
+            rgb(230, 198, 17) 72%,
+            rgb(186, 169, 21) 100%);
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
     background-size: 100% auto;
-    box-shadow: 0px 5px 35px #885357;
+    box-shadow: 0px 5px 35px #f4f802;
 }
 
 .neon-market {
     width: 100%;
     border-radius: 0px;
-    background: rgb(233, 130, 14);
+    background: rgb(233, 211, 14);
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
     background-size: 100% auto;
-    box-shadow: 0px 5px 35px #eea60a;
+    box-shadow: 0px 5px 35px #ffff00;
 }
 
 .neon-white {
@@ -209,7 +209,7 @@ body::before {
 
 .neon-white:hover {
     color: #000;
-    background: #dd9208cc;
+    background: #ffff00;
 }
 
 .slider-image {
@@ -231,18 +231,18 @@ body::before {
 
 .nav-item.active .nav-link {
     background-size: 100% 100% !important;
-    color: #ff8800 !important;
+    color: #ffff00 !important;
     font-family: UniNeueBold;
 }
 
 .left-side:hover {
     background-size: 100% 100%;
-    color: #ff8800 !important;
+    color: #ffff00 !important;
 }
 
 .right-side {
     background-size: 100% 100%;
-    background: #ff8800 !important;
+    background: #ffff00 !important;
     color: #191919 !important;
 }
 
@@ -497,7 +497,7 @@ body::before {
     color: #000;
     text-decoration: none;
     box-shadow: 0px 3px 15px #a3a3a3;
-    background: #dd9208cc;
+    background: #ffff00;
 }
 
 .gradient_btn__orange {
@@ -599,14 +599,14 @@ body::before {
 }
 
 .breadcrumb-item.active {
-    color: rgb(255, 153, 0);
+    color: rgb(251, 255, 0);
 }
 
 .page-header {
     color: #fff;
     width: 100%;
     height: 45px;
-    border-bottom: rgb(255, 166, 0) 3px solid;
+    border-bottom: rgb(255, 238, 0) 3px solid;
 }
 
 .page-header h2 {
@@ -666,7 +666,7 @@ body::before {
 
 .topbar p {
     position: absolute;
-    color: rgb(236, 147, 13);
+    color: rgb(232, 236, 13);
     margin-top: 20px;
 }
 
@@ -881,11 +881,11 @@ body::before {
 }
 
 ::-webkit-scrollbar-track {
-    background: #555;
+    background: rgb(102, 102, 98);
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #e98f09;
+    background: #ffff00;
     border-radius: 1px;
 }
 
