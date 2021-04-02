@@ -6,4 +6,4 @@ A simple frontend design made by myself, html, css languages.
 - Frontend Developer: Yusuf aslım
 - Project Version: v1.0
 
-<a href="https://tr.wikipedia.org/wiki/MTAWEB"><img align="left" alt="mtaweb" width="30px" src="https://cdn.discordapp.com/attachments/706239635000393789/827615982624833536/unknown.png"/></a>
+<a href="https://tr.wikipedia.org/wiki/MTAWEB"><img align="left" alt="mtaweb" width="100px" src="https://cdn.discordapp.com/attachments/706239635000393789/827615982624833536/unknown.png"/></a>
