@@ -12,3 +12,6 @@ Some images from the project;
 
 <a href="https://tr.wikipedia.org/wiki/MTA"><img align="left" alt="mta" src="https://cdn.discordapp.com/attachments/706239635000393789/827616819849461820/unknown.png"/></a>
 
+<a href="https://tr.wikipedia.org/wiki/MTA"><img align="left" alt="mta" src="https://cdn.discordapp.com/attachments/706239635000393789/827617098401972245/unknown.png"/></a>
+
+
